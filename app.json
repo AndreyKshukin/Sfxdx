@@ -1,0 +1,12 @@
+{
+  "name": "Sfxdx",
+  "displayName": "Sfxdx",
+  "expo": {
+    "name": "Sfxdx",
+    "slug": "Sfxdx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
